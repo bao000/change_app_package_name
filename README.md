@@ -1,4 +1,5 @@
-# Change App Package Name for Flutter
+dev_dependencies: 
+  change_app_package_name: ^1.1.0# Change App Package Name for Flutter
 Change App Package Name with single command. It makes the process very easy and fast.
 
 ## What It does?
